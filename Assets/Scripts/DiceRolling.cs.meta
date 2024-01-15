@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8c8884aad0b89546b5cb5dbbc4c2fb3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rolled_Die: {instanceID: 0}
+  - diceClack: {fileID: 7308496226918260475, guid: 9c875ca20a0c4a246829cd66a1c6a4da,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
